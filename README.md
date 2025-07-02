@@ -33,7 +33,7 @@ A powerful voice conversion framework based on VITS with top1 retrieval, featuri
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Mangio-RVC.git
+git clone https://github.com/AmiXDme/The-Mangio-RVC-Fork.git
 cd Mangio-RVC
 
 # Install dependencies
